@@ -19,7 +19,8 @@ data science course, this will certainly test my ability to work with messy, rea
 
 - 1. The price and the amount of the 
 
+![boston](https://user-images.githubusercontent.com/36822899/54990956-33062f00-4fbc-11e9-9ee2-6518783587aa.PNG)
 
-![alt text](C:\Users\Sai.Zhang\Desktop\boston.PNG)
+
 
 
