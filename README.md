@@ -50,7 +50,7 @@ As you can see in Seattle, for the price trend, the most predictive features, le
 
 -Neighbourhoods
 
->In Boston, the most predictive Features are:
+In Boston, the most predictive Features are:
 
 -Number of beds
 
