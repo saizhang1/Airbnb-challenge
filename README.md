@@ -2,23 +2,35 @@
 Comparing the Boston and Seattle Airbnb accommodation information, find the most relevant features to predict the price.
 
 # Table of Content
-- <p style='color:red'>Project Motivation</p>
+* Project Motivation
 
-## Why do I like to do this callenge?
+* File Description
+
+* Business questions
+
+* Result/Key Findings
+
+* Acknowledgments
+
+## Project Motivation
 
 I am looking to really challenge myself, data from Seattle and Boston AirBNB homes can be used to understand how much AirBNB 
 homes are earning in certain time frames and areas. I can compare rates between the two cities, or try to understand if there is 
 anything about the properties that helps to predict price. This dataset requires a number of skills beyond those shown thus far in my 
 data science course, this will certainly test my ability to work with messy, real world data.
 
-## What are the business questions I bring in while doing this analysis?
+## File Description
+
+The following Airbnb activity is included in this Boston and Seattle dataset: * Listings, including full descriptions and average review score * Calendar, including listing id and the price and availability for that day.
+
+## Business Questions
 
 - How is the evolution of price along the years and month in Boston?
 - How do we compare the evolution of price between Boston and Seattle?
 - What are the features most influence on the price?
 - Are the most predictive features of Seattle different from Boston?
 
-## What are the key findings from this analysis?
+## Results / Key Findings
 
 ### The relationship between the price and the number of houses.
 
@@ -65,7 +77,6 @@ In Boston, the most predictive Features are:
 
 -City center of Boston
 
-## What you can do with my projects?
+## Acknowledgement
 
-You can feel free to comment on my projects, find the bugs or tell me what your thoughts about my coding, analysis and insight. You can contact with me through my email: saizhang123@gmail.com. I will love to hear your ideas.
-You can also take some codes away if you think some of them can be useful for your projects.
+This dataset is part of Airbnb Inside, and the original source can be found [here] (http://insideairbnb.com/get-the-data.html)
