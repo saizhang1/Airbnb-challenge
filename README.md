@@ -79,4 +79,4 @@ In Boston, the most predictive Features are:
 
 ## Acknowledgement
 
-This dataset is part of Airbnb Inside, and the original source can be found [here] (http://insideairbnb.com/get-the-data.html)
+This dataset is part of Airbnb Inside, and the original source can be found [here](http://insideairbnb.com/get-the-data.html)
