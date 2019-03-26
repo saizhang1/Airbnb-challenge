@@ -1,6 +1,9 @@
 # Airbnb-challenge
 Comparing the Boston and Seattle Airbnb accommodation information, find the most relevant features to predict the price.
 
+# Table of Content
+- ![#f03c15] Project Motivation`#f03c15`
+
 ## Why do I like to do this callenge?
 
 I am looking to really challenge myself, data from Seattle and Boston AirBNB homes can be used to understand how much AirBNB 
