@@ -1,7 +1,16 @@
 # Airbnb-challenge
 Comparing the Boston and Seattle Airbnb accommodation information, find the most relevant features to predict the price.
 
+# Table of Content
+* Project Motivation
 
+* File Description
+
+* Business questions
+
+* Result/Key Findings
+
+* Acknowledgments
 
 ## Project Motivation
 
